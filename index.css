@@ -15,7 +15,6 @@ body{
 .wrapper{
     width: 335px;
     height: 490px;
-    margin:0 auto;
     padding: 15px 0;
     display: flex;
     flex-direction: column;
